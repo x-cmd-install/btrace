@@ -5,13 +5,13 @@ about:
   head: 9f3c9c7
   archived: false
   latestVersion: "v2.2.6"
-  collectedAt: 2026-09-08T02:44:54Z
+  collectedAt: 2026-09-08T05:35:32Z
 timeline:
   created: 2014-08-28
   lastCommit: 2026-09-01
   lastRelease: 2024-11-09
 popularity:
-  star: 5993
+  star: 5994
   watcher: 311
   fork: 956
   release: 33
@@ -86,7 +86,7 @@ total:
   commit: 1939
 ---
 path: /home/runner/.x-repo/github.com/btraceio/btrace
-collectedAt: 2026-09-08T02:44:57Z
+collectedAt: 2026-09-08T05:35:35Z
 loc:
   Java:
     code: 85094
