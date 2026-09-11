@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3109937,
       "digest": null,
-      "download_count": 2485,
+      "download_count": 2486,
       "created_at": "2024-11-09T17:16:48Z",
       "updated_at": "2024-11-09T17:16:49Z",
       "browser_download_url": "https://github.com/btraceio/btrace/releases/download/v2.2.6/btrace-v2.2.6-bin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3165758,
       "digest": null,
-      "download_count": 1166,
+      "download_count": 1167,
       "created_at": "2024-11-09T17:16:48Z",
       "updated_at": "2024-11-09T17:16:49Z",
       "browser_download_url": "https://github.com/btraceio/btrace/releases/download/v2.2.6/btrace-v2.2.6-bin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3166942,
       "digest": null,
-      "download_count": 479,
+      "download_count": 483,
       "created_at": "2024-11-09T17:16:48Z",
       "updated_at": "2024-11-09T17:16:49Z",
       "browser_download_url": "https://github.com/btraceio/btrace/releases/download/v2.2.6/btrace-v2.2.6-sdkman-bin.zip"
