@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 369 · **Open PRs**: 5 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1939
+- **Releases**: 33 · **Merged PRs**: 369 · **Open PRs**: 4 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1939
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-14 | 0 | 39 | 2 | 6 | 1 | 41 |
-| 90d | 2026-06-14 | 0 | 65 | 4 | 28 | 1 | 90 |
-| last180d | 2026-03-16 | 0 | 95 | 5 | 36 | 1 | 204 |
-| 360d | 2025-09-17 | 0 | 151 | 5 | 38 | 1 | 361 |
-| last720d | 2024-09-22 | 1 | 174 | 5 | 41 | 1 | 413 |
+| 30d | 2026-08-14 | 0 | 6 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-15 | 0 | 38 | 2 | 6 | 1 | 32 |
+| 90d | 2026-06-15 | 0 | 65 | 3 | 28 | 1 | 88 |
+| last180d | 2026-03-17 | 0 | 95 | 4 | 36 | 1 | 204 |
+| 360d | 2025-09-18 | 0 | 151 | 4 | 38 | 1 | 361 |
+| last720d | 2024-09-23 | 1 | 174 | 4 | 41 | 1 | 413 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:31:32Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:52:54Z._
