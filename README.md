@@ -30,7 +30,7 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 9 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-17 | 0 | 40 | 2 | 4 | 1 | 35 |
-| 90d | 2026-06-17 | 0 | 68 | 3 | 28 | 1 | 91 |
-| last180d | 2026-03-19 | 0 | 98 | 4 | 36 | 1 | 207 |
-| 360d | 2025-09-20 | 0 | 154 | 4 | 38 | 1 | 364 |
-| last720d | 2024-09-25 | 1 | 177 | 4 | 41 | 1 | 416 |
+| 30d | 2026-08-17 | 0 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-18 | 0 | 37 | 2 | 4 | 1 | 35 |
+| 90d | 2026-06-18 | 0 | 68 | 3 | 28 | 1 | 91 |
+| last180d | 2026-03-20 | 0 | 98 | 4 | 36 | 1 | 207 |
+| 360d | 2025-09-21 | 0 | 154 | 4 | 38 | 1 | 364 |
+| last720d | 2024-09-26 | 1 | 177 | 4 | 41 | 1 | 416 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:07:12Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:01:41Z._

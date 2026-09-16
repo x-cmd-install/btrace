@@ -30,7 +30,7 @@ x install btrace
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -57,12 +57,12 @@ x install btrace
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 9 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-17 | 0 | 40 | 2 | 4 | 1 | 35 |
-| 90d | 2026-06-17 | 0 | 68 | 3 | 28 | 1 | 91 |
-| last180d | 2026-03-19 | 0 | 98 | 4 | 36 | 1 | 207 |
-| 360d | 2025-09-20 | 0 | 154 | 4 | 38 | 1 | 364 |
-| last720d | 2024-09-25 | 1 | 177 | 4 | 41 | 1 | 416 |
+| 30d | 2026-08-17 | 0 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-18 | 0 | 37 | 2 | 4 | 1 | 35 |
+| 90d | 2026-06-18 | 0 | 68 | 3 | 28 | 1 | 91 |
+| last180d | 2026-03-20 | 0 | 98 | 4 | 36 | 1 | 207 |
+| 360d | 2025-09-21 | 0 | 154 | 4 | 38 | 1 | 364 |
+| last720d | 2024-09-26 | 1 | 177 | 4 | 41 | 1 | 416 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ btrace 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:07:13Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:01:42Z._
