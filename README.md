@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.6` (2024-11-09)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-21
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 372 · **Open PRs**: 4 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1942
+- **Releases**: 33 · **Merged PRs**: 373 · **Open PRs**: 4 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1943
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 8 | 1 | 0 | 0 | 7 |
-| last60d | 2026-07-22 | 0 | 33 | 2 | 4 | 1 | 24 |
-| 90d | 2026-06-22 | 0 | 67 | 3 | 28 | 1 | 91 |
-| last180d | 2026-03-24 | 0 | 98 | 4 | 36 | 1 | 207 |
-| 360d | 2025-09-25 | 0 | 153 | 4 | 37 | 1 | 364 |
-| last720d | 2024-09-30 | 1 | 177 | 4 | 41 | 1 | 416 |
+| 30d | 2026-08-22 | 0 | 9 | 2 | 0 | 0 | 8 |
+| last60d | 2026-07-23 | 0 | 34 | 3 | 4 | 1 | 25 |
+| 90d | 2026-06-23 | 0 | 68 | 4 | 28 | 1 | 92 |
+| last180d | 2026-03-25 | 0 | 99 | 4 | 36 | 1 | 208 |
+| 360d | 2025-09-26 | 0 | 154 | 4 | 37 | 1 | 365 |
+| last720d | 2024-10-01 | 1 | 178 | 4 | 41 | 1 | 417 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:09:20Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:17:10Z._
