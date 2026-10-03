@@ -14,11 +14,11 @@ x install btrace
 
 ## Code insight
 
-Total: **89,913** lines of code across **899** files in the top 5 languages.
+Total: **90,161** lines of code across **899** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 85,411 | 29,090 | 13,033 | 872 |
+| Java | 85,659 | 29,098 | 13,061 | 872 |
 | Groovy | 2,567 | 504 | 241 | 7 |
 | Sh | 1,397 | 342 | 248 | 11 |
 | Batch | 279 | 0 | 53 | 6 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.6` (2024-11-09)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-02
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 377 · **Open PRs**: 4 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1947
+- **Releases**: 33 · **Merged PRs**: 378 · **Open PRs**: 5 · **Closed issues**: 472 · **Open issues**: 2 · **Commits**: 1948
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 8 | 2 | 0 | 0 | 8 |
-| last60d | 2026-08-03 | 0 | 20 | 2 | 0 | 0 | 20 |
-| 90d | 2026-07-04 | 0 | 70 | 4 | 28 | 1 | 89 |
-| last180d | 2026-04-05 | 0 | 102 | 4 | 36 | 1 | 189 |
-| 360d | 2025-10-07 | 0 | 158 | 4 | 37 | 1 | 369 |
-| last720d | 2024-10-12 | 1 | 180 | 4 | 41 | 1 | 418 |
+| 30d | 2026-09-03 | 0 | 9 | 3 | 0 | 0 | 9 |
+| last60d | 2026-08-04 | 0 | 21 | 3 | 0 | 0 | 21 |
+| 90d | 2026-07-05 | 0 | 69 | 5 | 28 | 1 | 90 |
+| last180d | 2026-04-06 | 0 | 91 | 5 | 35 | 1 | 190 |
+| 360d | 2025-10-08 | 0 | 159 | 5 | 37 | 1 | 370 |
+| last720d | 2024-10-13 | 1 | 181 | 5 | 41 | 1 | 419 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:23:12Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:07:10Z._
