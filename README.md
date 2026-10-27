@@ -14,14 +14,14 @@ x install btrace
 
 ## Code insight
 
-Total: **95,930** lines of code across **988** files in the top 5 languages.
+Total: **99,278** lines of code across **1029** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 91,055 | 30,566 | 13,648 | 943 |
-| Groovy | 2,567 | 504 | 241 | 7 |
-| Sh | 1,427 | 343 | 253 | 12 |
-| Yaml | 350 | 10 | 2 | 20 |
+| Java | 93,731 | 31,165 | 13,923 | 966 |
+| Groovy | 2,575 | 511 | 242 | 7 |
+| Sh | 1,666 | 399 | 300 | 20 |
+| Yaml | 589 | 12 | 2 | 30 |
 | Batch | 279 | 0 | 53 | 6 |
 
 ## OpenSSF Scorecard
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 393 · **Open PRs**: 1 · **Closed issues**: 473 · **Open issues**: 1 · **Commits**: 1979
+- **Releases**: 33 · **Merged PRs**: 395 · **Open PRs**: 0 · **Closed issues**: 473 · **Open issues**: 1 · **Commits**: 1993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 19 | 1 | 0 | 0 | 31 |
-| last60d | 2026-08-27 | 0 | 27 | 1 | 0 | 0 | 39 |
-| 90d | 2026-07-28 | 0 | 43 | 1 | 0 | 0 | 55 |
-| last180d | 2026-04-29 | 0 | 102 | 1 | 34 | 0 | 148 |
-| 360d | 2025-10-31 | 0 | 174 | 1 | 38 | 0 | 400 |
-| last720d | 2024-11-05 | 1 | 194 | 1 | 41 | 0 | 448 |
+| 30d | 2026-09-27 | 0 | 21 | 0 | 0 | 0 | 43 |
+| last60d | 2026-08-28 | 0 | 29 | 0 | 0 | 0 | 51 |
+| 90d | 2026-07-29 | 0 | 43 | 0 | 0 | 0 | 67 |
+| last180d | 2026-04-30 | 0 | 104 | 0 | 34 | 0 | 160 |
+| 360d | 2025-11-01 | 0 | 176 | 0 | 38 | 0 | 412 |
+| last720d | 2024-11-06 | 1 | 196 | 0 | 41 | 0 | 462 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:35:19Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:53:31Z._
