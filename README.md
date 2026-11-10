@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 31 | 14 | 0 | 0 | 105 |
-| last60d | 2026-09-10 | 0 | 46 | 14 | 0 | 0 | 119 |
-| 90d | 2026-08-11 | 0 | 52 | 14 | 0 | 0 | 128 |
-| last180d | 2026-05-13 | 0 | 122 | 14 | 33 | 0 | 220 |
-| 360d | 2025-11-14 | 0 | 196 | 14 | 38 | 0 | 483 |
-| last720d | 2024-11-19 | 0 | 215 | 14 | 41 | 0 | 510 |
+| 30d | 2026-10-11 | 0 | 31 | 14 | 0 | 0 | 105 |
+| last60d | 2026-09-11 | 0 | 46 | 14 | 0 | 0 | 119 |
+| 90d | 2026-08-12 | 0 | 52 | 14 | 0 | 0 | 128 |
+| last180d | 2026-05-14 | 0 | 121 | 14 | 33 | 0 | 220 |
+| 360d | 2025-11-15 | 0 | 196 | 14 | 38 | 0 | 483 |
+| last720d | 2024-11-20 | 0 | 215 | 14 | 41 | 0 | 510 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:30:16Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:16:35Z._
