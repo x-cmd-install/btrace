@@ -14,13 +14,13 @@ x install btrace
 
 ## Code insight
 
-Total: **108,246** lines of code across **1112** files in the top 5 languages.
+Total: **119,303** lines of code across **1167** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 100,505 | 32,977 | 14,710 | 1030 |
+| Java | 108,036 | 34,540 | 15,574 | 1067 |
+| Python | 5,248 | 93 | 938 | 32 |
 | Groovy | 2,527 | 607 | 238 | 7 |
-| Python | 2,097 | 41 | 335 | 14 |
 | Sh | 1,852 | 461 | 313 | 22 |
 | Yaml | 775 | 34 | 2 | 39 |
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.6` (2024-11-09)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 429 · **Open PRs**: 6 · **Closed issues**: 473 · **Open issues**: 1 · **Commits**: 2080
+- **Releases**: 33 · **Merged PRs**: 436 · **Open PRs**: 4 · **Closed issues**: 473 · **Open issues**: 1 · **Commits**: 2087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 42 | 6 | 0 | 0 | 117 |
-| last60d | 2026-09-16 | 0 | 57 | 6 | 0 | 0 | 132 |
-| 90d | 2026-08-17 | 0 | 65 | 6 | 0 | 0 | 141 |
-| last180d | 2026-05-19 | 0 | 127 | 6 | 31 | 0 | 234 |
-| 360d | 2025-11-20 | 0 | 209 | 6 | 38 | 0 | 497 |
-| last720d | 2024-11-25 | 0 | 229 | 6 | 41 | 0 | 524 |
+| 30d | 2026-10-17 | 0 | 49 | 4 | 0 | 0 | 124 |
+| last60d | 2026-09-17 | 0 | 64 | 4 | 0 | 0 | 139 |
+| 90d | 2026-08-18 | 0 | 72 | 4 | 0 | 0 | 148 |
+| last180d | 2026-05-20 | 0 | 134 | 4 | 31 | 0 | 241 |
+| 360d | 2025-11-21 | 0 | 216 | 4 | 38 | 0 | 504 |
+| last720d | 2024-11-26 | 0 | 236 | 4 | 41 | 0 | 531 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:37:39Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:07:24Z._
