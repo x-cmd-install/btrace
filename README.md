@@ -14,25 +14,25 @@ x install btrace
 
 ## Code insight
 
-Total: **120,171** lines of code across **1176** files in the top 5 languages.
+Total: **120,161** lines of code across **1176** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 108,899 | 34,818 | 15,658 | 1076 |
 | Python | 5,248 | 93 | 938 | 32 |
 | Groovy | 2,527 | 607 | 238 | 7 |
-| Sh | 1,852 | 461 | 313 | 22 |
+| Sh | 1,842 | 460 | 311 | 22 |
 | Yaml | 775 | 34 | 2 | 39 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
+- **Security-Policy** (4/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.2.6` (2024-11-09)
+- **Latest**: `v3.0.0-RC1` (2024-11-09)
 - **Last commit**: 2026-11-17
 - **Assets in release**: 3
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 437 · **Open PRs**: 5 · **Closed issues**: 473 · **Open issues**: 2 · **Commits**: 2088
+- **Releases**: 34 · **Merged PRs**: 440 · **Open PRs**: 4 · **Closed issues**: 473 · **Open issues**: 2 · **Commits**: 2092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 50 | 5 | 0 | 1 | 125 |
-| last60d | 2026-09-18 | 0 | 65 | 5 | 0 | 1 | 140 |
-| 90d | 2026-08-19 | 0 | 73 | 5 | 0 | 1 | 149 |
-| last180d | 2026-05-21 | 0 | 135 | 5 | 31 | 1 | 242 |
-| 360d | 2025-11-22 | 0 | 217 | 5 | 38 | 1 | 505 |
-| last720d | 2024-11-27 | 0 | 237 | 5 | 41 | 1 | 532 |
+| 30d | 2026-10-20 | 1 | 51 | 4 | 0 | 1 | 129 |
+| last60d | 2026-09-20 | 1 | 67 | 4 | 0 | 1 | 144 |
+| 90d | 2026-08-21 | 1 | 76 | 4 | 0 | 1 | 153 |
+| last180d | 2026-05-23 | 1 | 138 | 4 | 31 | 1 | 246 |
+| 360d | 2025-11-24 | 1 | 220 | 4 | 38 | 1 | 509 |
+| last720d | 2024-11-29 | 1 | 240 | 4 | 41 | 1 | 536 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:43:07Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:05:24Z._
