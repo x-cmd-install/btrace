@@ -30,7 +30,7 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/27 approved changesets -- score normalized to 0
 - **Security-Policy** (4/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 52 | 4 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 1 | 67 | 4 | 0 | 1 | 0 |
-| 90d | 2026-08-25 | 1 | 75 | 4 | 0 | 1 | 0 |
-| last180d | 2026-05-27 | 1 | 139 | 4 | 31 | 1 | 0 |
-| 360d | 2025-11-28 | 1 | 221 | 4 | 38 | 1 | 0 |
-| last720d | 2024-12-03 | 1 | 239 | 4 | 41 | 1 | 535 |
+| 30d | 2026-10-25 | 1 | 49 | 4 | 0 | 1 | 75 |
+| last60d | 2026-09-25 | 1 | 67 | 4 | 0 | 1 | 141 |
+| 90d | 2026-08-26 | 1 | 75 | 4 | 0 | 1 | 153 |
+| last180d | 2026-05-28 | 1 | 139 | 4 | 31 | 1 | 247 |
+| 360d | 2025-11-29 | 1 | 221 | 4 | 38 | 1 | 510 |
+| last720d | 2024-12-04 | 1 | 239 | 4 | 41 | 1 | 535 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for btrace lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:12:03Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:10:13Z._
